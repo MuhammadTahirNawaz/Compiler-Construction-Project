@@ -1,0 +1,36 @@
+# Build outputs
+/build/
+/bin/
+/out/
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.map
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+*.vcxproj*
+*.sln
+*.user
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.pfx
+secrets.*
+config.local.*
