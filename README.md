@@ -35,3 +35,4 @@ g++ -std=c++17 -Iinclude src/main.cpp src/Lexer.cpp src/Parser.cpp src/SemanticA
 - 2026-06-03: Added basic_assign test, updated build command, and added logical operator precedence in parser.
 - 2026-06-03: Updated main output banners to ASCII-safe phase labels.
 - 2026-06-03: Removed emoji markers from error banners for terminal compatibility.
+
